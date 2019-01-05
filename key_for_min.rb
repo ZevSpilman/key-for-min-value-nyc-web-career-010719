@@ -14,5 +14,5 @@ end
  elsif name_hash.length == 0 
  return nil
 end
-return nil
+return answer
 end

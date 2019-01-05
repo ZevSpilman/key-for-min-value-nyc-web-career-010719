@@ -9,8 +9,7 @@ name_hash.each do |key, value|
     answer = key
     i = value
   end
-end
-
+ 
 
   
 end

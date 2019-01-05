@@ -10,6 +10,7 @@ if name_hash.length > 0
      answer = key
      i = value
   end
+end
  elsif name_hash.length == 0 
  return nil
 end

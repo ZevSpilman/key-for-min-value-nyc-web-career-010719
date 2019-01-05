@@ -8,6 +8,9 @@ key_for_min_value.each do |key, value|
   if value < i
     answer = key
     i = value
+  end
+end
+
 
   
 end
